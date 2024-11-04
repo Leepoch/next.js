@@ -1,0 +1,23 @@
+.container {
+    position: relative;
+    height: 100vh;
+    width: 700px;
+    top: 150px;
+    left: 700px;
+    right: 0;
+    font-size: 20px;
+    padding-bottom: 150px;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.link:hover {
+    color: burlywood;
+}
+
+.checkbox {
+    margin-right: 20px;
+}
