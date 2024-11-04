@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import Header from '../conponents/header/page'
-import Sidebar from '../conponents/aside/page'
+import Header from '../components/header/page'
+import Sidebar from '../components/aside/page'
 import styles from './styles.module.scss';
 import Main from './tasks/main/page'
 
