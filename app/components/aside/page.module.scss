@@ -24,7 +24,7 @@
     overflow: auto;
 }
 
-.tasksItem {
+.taskItem {
     text-align: center;
     width: 70%;
     border-radius: 15px;
@@ -34,4 +34,9 @@
     padding-bottom: 10px;
     margin-bottom: 10px;
     margin-top: 10px;
+}
+
+.noStyle {
+    text-decoration: none;
+    color: inherit;
 }

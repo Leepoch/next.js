@@ -8,6 +8,6 @@ export default function() {
 
     
     return (
-        <div className={styles.container}>{value}</div>
+        <div className={styles.container}>text</div>
     );
 }
